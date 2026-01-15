@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\bin\Debug\net10.0\placas.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\bin\Debug\net10.0\placas.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\bin\Debug\net10.0\placas.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\bin\Debug\net10.0\placas.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\bin\Debug\net10.0\placas.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\refint\placas.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\placas.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\placas\obj\Debug\net10.0\ref\placas.dll

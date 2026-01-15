@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\bin\Debug\net10.0\longitud.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\bin\Debug\net10.0\longitud.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\bin\Debug\net10.0\longitud.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\bin\Debug\net10.0\longitud.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\bin\Debug\net10.0\longitud.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\refint\longitud.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\longitud.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana 6\longitud\obj\Debug\net10.0\ref\longitud.dll
